@@ -6,6 +6,6 @@ tec1 exploring cellular automata
 
 ### Rule 30
 - https://en.wikipedia.org/wiki/Rule_30
-- wip  https://docs.google.com/spreadsheets/d/1hqCEk11UI5EI1AEu4Az0Y2iVKdBNQUGsj62Gb-XouCc/edit?usp=sharing
+- https://docs.google.com/spreadsheets/d/1hqCEk11UI5EI1AEu4Az0Y2iVKdBNQUGsj62Gb-XouCc/edit?usp=sharing
 - 
 
